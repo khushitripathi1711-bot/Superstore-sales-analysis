@@ -1,2 +1,2 @@
 # Superstore-sales-analysis
-Interactive Sales Analysis Dashboard created in Power BI using the Global Superstore dataset. Performed data cleaning and transformation with Power Query, created DAX measures for key business metrics, and designed interactive visualizations to analyze revenue, profit, customers, orders, shipping modes, and category performance. The dashboard includes KPI cards, year-over-year trend analysis, slicers, and detailed transaction views to support data-driven decision-making.
+
